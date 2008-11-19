@@ -1,0 +1,5 @@
+Sass_Pygments_Lexer.egg-info
+build
+dist
+*.pyc
+**/*.pyc
